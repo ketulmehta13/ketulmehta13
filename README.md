@@ -5,7 +5,7 @@
 
 - 📚 Learning Goals **Data Structures and Algorithms, Software Development**
 
-- 🌟 Collaborate [I enjoy coding, exploring emerging tech, and collaborating on innovative solutions.](I enjoy coding, exploring emerging tech, and collaborating on innovative solutions.)
+- 🌟 Collaborate I enjoy coding, exploring emerging tech, and collaborating on innovative solutions.
 
 - 📄 Exploring **AI/ML**
 
