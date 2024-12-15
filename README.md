@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ketul Mehta</h1>
-<h3 align="center">🎓 BTech Computer Science and Engineering Student at LJ University | 🚀 Passionate about learning and exploring new technologies | 💡 Driven by curiosity and ❤ compassion to create impactful solutions.</h3>
+<h3 align="center">🎓 BTech Computer Science and Engineering Student at LJ University | 🚀 Passionate about learning and exploring new technologies | 💡 Driven by curiosity and compassion to create impactful solutions.</h3>
 <img align="right" alt="coding" width="400" src="https://www.shutterstock.com/image-photo/digital-technology-software-development-concept-600nw-2111828198.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ketulmehta13&label=Profile%20views&color=0e75b6&style=flat" alt="ketulmehta13" /> </p>
 
-- 📚 Learning Goals **Data Structures and Algorithms, Software Development**
+- Languages: Java,Python,Css,Html,Bootstrap,Javascript,etc.
+
+- ⚡What I Do: Projects in Java, Python etc.
+
+- 📚 Learning Goals: **Data Structures and Algorithms, Software Development**
 
 - 📄 Exploring : I enjoy coding, exploring emerging tech, and collaborating on innovative solutions , and building things that make difference.
 
