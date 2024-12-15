@@ -5,9 +5,7 @@
 
 - 📚 Learning Goals **Data Structures and Algorithms, Software Development**
 
-- 🌟 Collaborate I enjoy coding, exploring emerging tech, and collaborating on innovative solutions.
-
-- 📄 Exploring **AI/ML**
+- 📄 Exploring : I enjoy coding, exploring emerging tech, and collaborating on innovative solutions , and building things that make difference.
 
 - 📫 How to reach me **ketulmehta13@gmail.com**
 
