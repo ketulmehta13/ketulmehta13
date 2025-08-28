@@ -1,24 +1,81 @@
-<h1 align="center">Hi 👋, I'm Ketul Mehta</h1>
-<h3 align="center">🎓 BTech Computer Science and Engineering Student at LJ University | 🚀 Passionate about learning and exploring new technologies | 💡 Driven by curiosity and compassion to create impactful solutions.</h3>
-<img align="right" alt="coding" width="400" src="https://www.shutterstock.com/image-photo/digital-technology-software-development-concept-600nw-2111828198.jpg">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ketulmehta13&label=Profile%20views&color=0e75b6&style=flat" alt="ketulmehta13" /> </p>
+## Hi 👋, I'm Ketul Mehta
 
-- Languages: Java,Python,Css,Html,Bootstrap,Javascript,etc.
+![Typing SVG](https://readme-typing-svg.vercel.app/?font=Fira+Code&size=22&pause=600&color=FF6B35&width=500&duration=3000&height=35&lines=BTech+Computer+Science+Student;Full-stack+Developer;Problem+Solver;Tech+Enthusiast;Always+Learning...)
+- 🎓 **I'm currently studying:** BTech Computer Science & Engineering at LJ University
+- 👯 **I'm looking to collaborate on:** Web Development & Software Projects
+- 📫 **How to reach me:** ketulmehta13@gmail.com
+- 😄 **Pronouns:** Ketul
+- ⚡ **Fun fact:** I enjoy coding, exploring emerging tech, and building things that make a difference!
 
-- ⚡What I Do: Projects in Java, Python etc.
 
-- 📚 Learning Goals: **Data Structures and Algorithms, Software Development**
+## 🌐 Connect With Me
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ketul_mehta13) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ketul-mehta-5108a7310) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ketulmehta13@gmail.com) 
 
-- 📄 Exploring : I enjoy coding, exploring emerging tech, and collaborating on innovative solutions , and building things that make difference.
 
-- 📫 How to reach me **ketulmehta13@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ketul-mehta-5108a7310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ketul-mehta-5108a7310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://instagram.com/ketul_mehta13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ketul_mehta13" height="30" width="40" /></a>
-</p>
+## 📍 Resume & Portfolio
+- 📄 **My Resume:** [**Click to Download (PDF)**](https://drive.google.com/your-resume-link)
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ketulmehta13&" alt="ketulmehta13" /></p>
+# 🛠 Skills
+
+<div align="center">
+
+### Programming Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Libraries
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Development Tools
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+
+### Databases & Cloud
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+### Data Science & Analytics
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+</div>
+
+
+
+## 📊 GitHub Analytics:
+
+<div >
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ketulmehta13&theme=radical&hide_border=false&include_all_commits=true&count_private=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketulmehta13&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+
+</div>
+
+<div >
+  
+![](https://nirzak-streak-stats.vercel.app/?user=ketulmehta13&theme=radical&hide_border=false)
+
+<div >
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ketulmehta13/ketulmehta13/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ketulmehta13/ketulmehta13/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ketulmehta13/ketulmehta13/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+
+</div>
+
+
+### ✍️ Dev Quote
+
+<div>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+
+
+
+
