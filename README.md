@@ -51,7 +51,11 @@
 
 <div >
   
-![](https://streak-stats.demolab.com/?user=ketulmehta13&theme=radical&hide_border=false)
+<div >
+  
+![](https://nirzak-streak-stats.vercel.app/?user=ketulmehta13&theme=radical&hide_border=false)
+
+<div >
 
 <div >
   
