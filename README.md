@@ -45,17 +45,13 @@
 <div >
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ketulmehta13&theme=radical&hide_border=false&include_all_commits=true&count_private=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketulmehta13&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketulmehta13&theme=radical&hide_border=false&layout=compact&langs_count=10&hide_progress=false"/>
 
 </div>
 
 <div >
   
-<div >
-  
 ![](https://nirzak-streak-stats.vercel.app/?user=ketulmehta13&theme=radical&hide_border=false)
-
-<div >
 
 <div >
   
@@ -64,9 +60,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ketulmehta13/ketulmehta13/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ketulmehta13/ketulmehta13/output/github-contribution-grid-snake.svg">
 </picture>
-
-</div>
-
 
 </div>
 
