@@ -7,7 +7,7 @@
 
 
 ## 📍 Resume & Portfolio
-- 📄 **My Resume:** [**Click to Download (PDF)**](https://drive.google.com/file/d/1BNh-WypYxP2JI8puxUOAB3GVC0J9WZN-/view?usp=drivesdk)
+- 📄 **My Resume:** [**Click to Download (PDF)**](https://drive.google.com/file/d/1DkqjB34uJnBZlVDW9f7ewYT2NQz29tVi/view?usp=drivesdk)
 
 
 
