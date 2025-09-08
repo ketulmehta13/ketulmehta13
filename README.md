@@ -38,7 +38,7 @@
 
 <div >
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ketulmehta13&theme=radical&hide_border=false&include_all_commits=true&count_private=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ketulmehta13&show_icons=true&theme=radical&hide_border=false&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketulmehta13&theme=radical&hide_border=false&layout=compact&langs_count=10&hide_progress=false&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5"/>
 
 
