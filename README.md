@@ -74,6 +74,6 @@
 
 <div>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+HardWork puts you where patience pays off 🚀
 
 </div>
