@@ -53,7 +53,7 @@
 
 <section style="background: #2A2A2A; padding: 20px; border-radius: 10px; margin: 20px auto; max-width: 900px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); font-family: 'Inter', sans-serif; text-align: center;">
   <h2 style="color: #00BFFF; font-size: 1.8rem; margin-bottom: 20px;">🏆 Trophies & Contributions</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Nitya110905&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" style="margin-bottom: 20px;"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ketulmehta13&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" style="margin-bottom: 20px;"/>
   <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ketulmehta13&theme=tokyonight&bg_color=1a1b27&hide_border=true&hide_title=true&line=00BFFF&point=00BFFF&area=true&area_color=00BFFF" alt="GitHub Activity Graph"/>
   </div>
