@@ -45,11 +45,7 @@
 
 </div>
 
-<div >
-  
-![](https://nirzak-streak-stats.vercel.app/?user=ketulmehta13&theme=radical&hide_border=false)
 
-<div >
 
 
 <section style="background: #2A2A2A; padding: 20px; border-radius: 10px; margin: 20px auto; max-width: 900px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); font-family: 'Inter', sans-serif; text-align: center;">
