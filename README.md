@@ -38,8 +38,9 @@
 
 <div >
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ketulmehta13&show_icons=true&theme=radical&hide_border=false&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketulmehta13&theme=radical&hide_border=false&layout=compact&langs_count=10&hide_progress=false&hide=jupyter%20notebook&size_weight=0.5&count_weight=0.5"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ketulmehta13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ketul's GitHub Stats" style="height: 200px;" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=ketulmehta13&theme=tokyonight&hide_border=true" alt="Ketul's Contribution Streak" style="height: 200px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketulmehta13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Ketul's Top Languages" style="height: 200px;" />
 
 
 </div>
