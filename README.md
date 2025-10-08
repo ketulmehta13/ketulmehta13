@@ -38,9 +38,9 @@
 
 <div >
 
-![](https://github-readme-stats.vercel.app/api?username=ketulmehta13&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ketulmehta13&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ketulmehta13&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+ <img src="https://github-readme-stats.vercel.app/api?username=ketulmehta13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ketul's GitHub Stats" style="height: 200px;" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=ketulmehta13&theme=tokyonight&hide_border=true" alt="Ketul's Contribution Streak" style="height: 200px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketulmehta13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Ketul's Top Languages" style="height: 200px;" />
 
 
 </div>
