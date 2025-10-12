@@ -56,7 +56,7 @@
 
 <div>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=ketulmehta13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ketul's GitHub Stats" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ketulmehta13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="Ketul's GitHub Stats" height="200px" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ketulmehta13&theme=tokyonight&hide_border=true" alt="Ketul's Contribution Streak" height="200px" />
   
