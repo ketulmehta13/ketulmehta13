@@ -58,7 +58,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=ketulmehta13&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="Ketul's GitHub Stats" height="200px" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ketulmehta13&theme=tokyonight&hide_border=true" alt="Ketul's Contribution Streak" height="200px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ketulmehta13&theme=tokyonight&hide_border=false" alt="Ketul's Contribution Streak" height="200px" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketulmehta13&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&count_private=false" alt="Ketul's Top Languages" height="200px" />
 
