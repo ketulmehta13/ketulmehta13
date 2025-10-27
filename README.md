@@ -54,21 +54,30 @@
 ---
 
 ## 📊 GitHub Analytics
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=ketulmehta13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ketul's GitHub Stats" style="height: 200px;" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=ketulmehta13&theme=tokyonight&hide_border=true" alt="Ketul's Contribution Streak" style="height: 200px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketulmehta13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Ketul's Top Languages" style="height: 200px;" />
-    </div>
+
+<div align="center">
+
+![Ketul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ketulmehta13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![Ketul's Contribution Streak](https://nirzak-streak-stats.vercel.app/?user=ketulmehta13&theme=tokyonight&hide_border=true)
+
+![Ketul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ketulmehta13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
 
 ---
 
-<section style="background: #2A2A2A; padding: 20px; border-radius: 10px; margin: 20px auto; max-width: 900px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); font-family: 'Inter', sans-serif; text-align: center;">
-  <h2 style="color: #00BFFF; font-size: 1.8rem; margin-bottom: 20px;">🏆 Trophies & Contributions</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=ketulmehta13&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" style="margin-bottom: 20px;"/>
-  <div align="center">
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=ketulmehta13&bg_color=1a1b27&color=70A5FD&line=70A5FD&point=1E90FF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
-  </div>
-</section>
+## 🏆 Achievements & Contributions
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ketulmehta13&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ketulmehta13&bg_color=1a1b27&color=70A5FD&line=70A5FD&point=1E90FF&area=true&hide_border=true)
+
+</div>
+
+
 
 ---
 
