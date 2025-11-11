@@ -10,7 +10,7 @@
 
 ## 📍 Resume and Portfolio
 - 📄 **My Resume:** [**Click to Download (PDF)**](https://drive.google.com/file/d/1qZtztizGJwayo0Lbkpurm1uFvXN5VExR/view?usp=drivesdk)
-- 🌐 **My Portfolio:** https://ketul-mehta-portfolio.vercel.app/
+- 🌐 **My Portfolio:** 
 
 ---
 
