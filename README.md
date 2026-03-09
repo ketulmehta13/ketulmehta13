@@ -9,7 +9,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ketulmehta13@gmail.com)
 
 ## 📍 Resume and Portfolio
-- 📄 **My Resume:** [**Click to Download (PDF)**](https://drive.google.com/file/d/1qZtztizGJwayo0Lbkpurm1uFvXN5VExR/view?usp=drivesdk)
+- 📄 **My Resume:** [**Click to Download (PDF)**](https://drive.google.com/file/d/18i_t_5n7LmXuMXua6XuvIXCUueK5lpsv/view?usp=drivesdk)
 - 🌐 **My Portfolio:** https://ketulmehta-portfolio.vercel.app/
 
 ---
