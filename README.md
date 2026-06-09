@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.vercel.app/?font=Fira+Code&size=22&pause=600&color=FF6B35&width=500&duration=3000&height=35&lines=BTech+Computer+Science+Student;Full-stack+Developer)
 
-- 🎓 **I'm currently studying:** BTech Computer Science & Engineering at LJ University
+- 🎓 **I'm currently studying:** BTech Computer Science & Engineering at LJ University SEM-6
 
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ketul-mehta-5108a7310)
