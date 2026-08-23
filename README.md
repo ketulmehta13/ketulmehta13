@@ -1,96 +1,191 @@
-## Hi 👋, I'm Ketul Mehta
-
-![Typing SVG](https://readme-typing-svg.vercel.app/?font=Fira+Code&size=22&pause=600&color=FF6B35&width=500&duration=3000&height=35&lines=BTech+Computer+Science+Student;Full-stack+Developer)
-
-- 🎓 **I'm currently studying:** BTech CSE @ LJIET ’27, Full-Stack Developer & AI/ML Enthusiast | React · Next.js · Django · REST APIs | Python · OpenCV · NLP · Scikit-learn | Turning models into real, deployable end-to-end products 🚀
-
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ketul-mehta-5108a7310)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:ketulmehta13@gmail.com)
-
-## 📍 Resume and Portfolio
-- 📄 **My Resume:** [**Click to Download (PDF)**](https://drive.google.com/file/d/1BaF7wUrhu5f4PdzBwmXfnaTDyPymO7_M/view?usp=drivesdk)
-- 🌐 **My Portfolio:** https://ketulmehta-portfolio.vercel.app/
-
----
-
-# 🛠 Skills
-
 <div align="center">
 
-### Programming Languages
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark&perline=5" />
 
-### Frameworks & Libraries
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Tkinter](https://img.shields.io/badge/tkinter-%23217346.svg?style=for-the-badge&logo=python&logoColor=white)
+# Ketul Mehta
 
-### Development Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d4.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+<img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Turning+ML+Models+Into+Deployable+Products;Building+Secure%2C+Role-Based+Web+Platforms" alt="Typing SVG" />
 
-### Databases & Cloud
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+<br/>
 
-### Data Science & Analytics
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![BTech CSE](https://img.shields.io/badge/BTech-Computer%20Science%20%E2%80%9927-6D28D9?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Ahmedabad,%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://ketulmehta-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ketul-mehta-5108a7310)
+[![Gmail](https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ketulmehta13@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1E1B4B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ketulmehta13)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ketulmehta13&color=6D28D9&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/ketulmehta13?style=for-the-badge&color=6D28D9&labelColor=1E1B4B)
+![Stars](https://img.shields.io/github/stars/ketulmehta13?style=for-the-badge&color=6D28D9&labelColor=1E1B4B)
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+### 🧠 About Me
+
+```yaml
+name: "Ketul Mehta"
+role: "Full-Stack Developer & AI/ML Enthusiast"
+education: "B.Tech CSE, Lok Jagruti Kendra University (2023 – 2027) | CPI: 8.1"
+focus: "Building end-to-end products: data model → REST API → deployment"
+currently:
+  - "Frontend Developer Intern @ Summer Atlantic Capital"
+  - "Strengthening ML fundamentals — NLP, OpenCV, classical ML"
+open_to:
+  - "Full-Stack / Frontend Engineering roles"
+  - "AI/ML-integrated product engineering"
+  - "Open-source collaboration"
+```
+
+I'm a full-stack developer with production experience shipping **React/Next.js** and **Django** applications integrated with AI-powered backends. I'm comfortable owning a feature end-to-end — from data modeling and REST API design through deployment — and I pick up new tools fast to ship clean, reliable products.
+
+---
+
+### 🛠 Tech Stack
 
 <div align="center">
 
-![Ketul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ketulmehta13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,html,css&theme=dark&perline=6" />
 
-![Ketul's Contribution Streak](https://nirzak-streak-stats.vercel.app/?user=ketulmehta13&theme=tokyonight&hide_border=true)
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap&theme=dark&perline=6" />
 
-![Ketul's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ketulmehta13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+**Backend & Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,postgres,sqlite,firebase&theme=dark&perline=6" />
+
+**Cloud, DevOps & Tooling**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode&theme=dark&perline=6" />
 
 </div>
 
 ---
 
-## 🏆 Achievements & Contributions
+### 🤖 AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| Data Analysis | ⭐⭐⭐⭐ | Pandas, NumPy, Matplotlib for data wrangling & visualization |
+| Classical ML | ⭐⭐⭐ | Scikit-learn — model building & evaluation fundamentals |
+| Computer Vision | ⭐⭐⭐ | OpenCV — image processing pipelines |
+| NLP | ⭐⭐⭐ | NLTK / spaCy — text processing & language pipelines |
+
+---
+
+### 🚀 Featured Projects
+
+<details>
+<summary><b>💰 Expense Tracker — Full-Stack Financial Dashboard</b></summary>
+<br/>
+
+Engineered an end-to-end expense tracking platform with secure JWT authentication and real-time analytics.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | Django REST Framework, React (Vite), Tailwind CSS, PostgreSQL |
+| **Auth** | JWT via `djangorestframework-simplejwt` with automatic token refresh (Axios interceptor) |
+| **Analytics** | Chart.js dashboard — monthly income/expense trends (bar) + category-wise spend (pie) |
+| **Deployment** | Frontend → Vercel · Backend → Render · Production DB → PostgreSQL |
+| **Security** | `django-cors-headers` + environment-based secrets for safe cross-origin requests |
+
+</details>
+
+<details>
+<summary><b>🏢 PRAdvisor — Insurance Management Platform</b></summary>
+<br/>
+
+Built a full-stack insurance management platform enabling agents to manage sub-agents, clients, policies, and inquiries.
+
+| Aspect | Detail |
+|---|---|
+| **Stack** | React.js, Django, SQLite |
+| **Data Layer** | Relational models with CRUD-driven REST endpoints |
+| **Access Control** | Secure, role-based dashboards for multi-role data access |
+| **Scope** | Policy creation, client management, claims tracking, inquiry handling |
+
+</details>
+
+---
+
+### 💼 Experience
+
+**Frontend Developer Intern** · Summer Atlantic Capital
+`Dec 2025 – Aug 2026`
+
+- Architected the frontend for **SAC Nexus** — a full-stack platform connecting distinct customer and investor portals to a 6-model AI backend, using Next.js and Tailwind CSS for a consistent, role-based experience
+- Built and maintained responsive, performance-optimized interfaces, improving page load behavior and usability across customer- and investor-facing workflows
+- Owned frontend deployment workflows on Render end-to-end, coordinating releases with backend and design to ship production updates with minimal regression
+
+`Next.js` `Tailwind CSS` `Render` `Role-Based UI`
+
+---
+
+### 📜 Certifications
+
+- **Postman API Fundamentals Student Expert** — Postman
+- **Introduction to HTML, CSS & JavaScript** — IBM
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ketulmehta13&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4)
+<img src="https://github-readme-stats.vercel.app/api?username=ketulmehta13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=A78BFA&icon_color=A78BFA" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=ketulmehta13&theme=tokyonight&hide_border=true&ring=A78BFA&fire=A78BFA" width="49%" />
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ketulmehta13&bg_color=1a1b27&color=70A5FD&line=70A5FD&point=1E90FF&area=true&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketulmehta13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=A78BFA" width="49%" />
 
 </div>
 
+### 🏆 Trophies
 
+<div align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=ketulmehta13&theme=algolia&no-frame=true&margin-w=10&row=1&column=6" />
+
+</div>
+
+### 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ketulmehta13&bg_color=1a1b27&color=A78BFA&line=A78BFA&point=ffffff&area=true&hide_border=true" width="100%" />
+
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ketulmehta13/ketulmehta13/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ketulmehta13/ketulmehta13/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ketulmehta13/ketulmehta13/output/github-contribution-grid-snake.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ketulmehta13/ketulmehta13/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 
 ---
 
-### ✍️ Dev Quote
+### 🎯 Current Focus
+
+```yaml
+learning:
+  - "Advanced NLP & applied ML fundamentals"
+building:
+  - "AI-integrated full-stack products"
+exploring:
+  - "Scalable REST API design patterns"
+open_to:
+  - "Full-Stack / Frontend roles, AI/ML product engineering, OSS collaboration"
+```
+
+---
 
 <div align="center">
-  <b>HardWork puts you where patience pays off 🚀</b>
+
+**"Hard work puts you where patience pays off." 🚀**
+
+
 </div>
