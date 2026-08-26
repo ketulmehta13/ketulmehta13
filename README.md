@@ -3,7 +3,7 @@
 
 # Ketul Mehta
 
-<img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Turning+ML+Models+Into+Deployable+Products;Building+Secure%2C+Role-Based+Web+Platforms" alt="Typing SVG" />
+<img src="https://readme-typing-svg.vercel.app/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+(React+%2F+Next.js+%2F+Django);Turning+ML+Models+Into+Deployable+Products;Building+Secure%2C+Role-Based+Web+Platforms" alt="Typing SVG" />
 
 <br/>
 
@@ -187,5 +187,6 @@ open_to:
 
 **"Hard work puts you where patience pays off." 🚀**
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
