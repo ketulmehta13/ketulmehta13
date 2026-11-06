@@ -30,8 +30,9 @@ name: "Ketul Mehta"
 role: "Full-Stack Developer & AI/ML Enthusiast"
 education: "B.Tech CSE, Lok Jagruti Kendra University (2023 – 2027) | CPI: 8.1"
 focus: "Building end-to-end products: data model → REST API → deployment"
-currently:
+Experience:
   - "Frontend Developer Intern @ Summer Atlantic Capital"
+currently:
   - "Strengthening ML fundamentals — NLP, OpenCV, classical ML"
 open_to:
   - "Full-Stack / Frontend Engineering roles"
