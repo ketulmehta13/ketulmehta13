@@ -28,7 +28,7 @@
 ```yaml
 name: "Ketul Mehta"
 role: "Full-Stack Developer & AI/ML Enthusiast"
-education: "B.Tech CSE, Lok Jagruti Kendra University (2023 – 2027) | CPI: 8.1"
+education: "B.Tech CSE, Lok Jagruti Kendra University (2023 – 2027) | CPI: 8.4"
 focus: "Building end-to-end products: data model → REST API → deployment"
 Experience:
   - "Frontend Developer Intern @ Summer Atlantic Capital"
@@ -117,7 +117,7 @@ Built a full-stack insurance management platform enabling agents to manage sub-a
 ### 💼 Experience
 
 **Frontend Developer Intern** · Summer Atlantic Capital
-`Dec 2025 – Aug 2026`
+`Dec 2025 – June 2026`
 
 - Architected the frontend for **SAC Nexus** — a full-stack platform connecting distinct customer and investor portals to a 6-model AI backend, using Next.js and Tailwind CSS for a consistent, role-based experience
 - Built and maintained responsive, performance-optimized interfaces, improving page load behavior and usability across customer- and investor-facing workflows
